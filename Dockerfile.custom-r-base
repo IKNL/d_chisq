@@ -6,7 +6,7 @@
 FROM r-base:latest
 
 RUN apt-get update
-RUN apt-get install -y libssl-dev libcurl4-openssl-dev
+RUN apt-get install -y libssl-dev libcurl4-openssl-dev libxml2-dev
 
 # Change directory to '/app’. This means the subsequent ‘RUN’ steps will
 # execute in this directory.
