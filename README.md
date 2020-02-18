@@ -1,6 +1,10 @@
-# d_chisq
-Implementation of the Chi-Squared algorithm for the Vantage federated learning infrastructure.
+<img src="https://github.com/IKNL/guidelines/blob/master/resources/logos/vantage6.png?raw=true" width=200 align="right">
 
+# d_chisq
+## About
+Implementation of the Chi-Squared algorithm that can be used in [VANTAGE6](https://github.com/IKNL/VANTAGE6).
+
+## Usage
 Example use:
 ```R
 source('install_packages.R')
